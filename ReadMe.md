@@ -1,3 +1,4 @@
+![logo](https://github.com/Shiva250503ss/Shiva250503ss/blob/main/shiva_banner.gif)
 <h1 align="center">Hi 👋, I'm Shivaraj</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Engineer </h3>
 
